@@ -1,5 +1,7 @@
 # Ignite Lab Design System - Rocketseat
 
+![preview](images/preview.png)
+
 ## Aula 01
 Desenvolvimento da base visual do projeto de Design System via Figma, definindo tokens e componentes que farão parte da biblioteca em React.
 
